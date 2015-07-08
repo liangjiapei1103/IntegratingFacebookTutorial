@@ -25,7 +25,7 @@ The Android project teaches you how to create a Facebook profile viewer applicat
 
 ### Learn More
 
-To learn more, take a look at the [Integrating Facebook in Android](https://www.parse.com/tutorials/integrating-facebook-in-android) tutorial.
+To learn more, take a look at the [Integrating Facebook in Android](https://parse.com/docs/android/guide#users-facebook-users) tutorial.
 
 ## Unity Setup
 
