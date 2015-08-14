@@ -107,7 +107,9 @@ public class UserDetailsActivity extends Activity {
                 }
               }
             });
-
+    Bundle parameters = new Bundle();
+    parameters.putString("fields", "id,first_name,last_name,email,gender,name");
+    request.setParameters(parameters);
     request.executeAsync();
   }
 
